@@ -1,0 +1,6 @@
+D:\ProjectCSharp\29.12.2021\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\ProjectCSharp\29.12.2021\HelloWorld\bin\Debug\HelloWorld.exe
+D:\ProjectCSharp\29.12.2021\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\ProjectCSharp\29.12.2021\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\29.12.2021\HelloWorld\obj\Debug\HelloWorld.exe
+D:\ProjectCSharp\29.12.2021\HelloWorld\obj\Debug\HelloWorld.pdb
