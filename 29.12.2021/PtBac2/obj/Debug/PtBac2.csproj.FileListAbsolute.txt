@@ -1,0 +1,6 @@
+D:\ProjectCSharp\29.12.2021\PtBac2\bin\Debug\PtBac2.exe.config
+D:\ProjectCSharp\29.12.2021\PtBac2\bin\Debug\PtBac2.exe
+D:\ProjectCSharp\29.12.2021\PtBac2\bin\Debug\PtBac2.pdb
+D:\ProjectCSharp\29.12.2021\PtBac2\obj\Debug\PtBac2.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\29.12.2021\PtBac2\obj\Debug\PtBac2.exe
+D:\ProjectCSharp\29.12.2021\PtBac2\obj\Debug\PtBac2.pdb
