@@ -1,0 +1,6 @@
+D:\ProjectCSharp\29.12.2021\TinhLaiSuatNganHang\bin\Debug\TinhLaiSuatNganHang.exe.config
+D:\ProjectCSharp\29.12.2021\TinhLaiSuatNganHang\bin\Debug\TinhLaiSuatNganHang.exe
+D:\ProjectCSharp\29.12.2021\TinhLaiSuatNganHang\bin\Debug\TinhLaiSuatNganHang.pdb
+D:\ProjectCSharp\29.12.2021\TinhLaiSuatNganHang\obj\Debug\TinhLaiSuatNganHang.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\29.12.2021\TinhLaiSuatNganHang\obj\Debug\TinhLaiSuatNganHang.exe
+D:\ProjectCSharp\29.12.2021\TinhLaiSuatNganHang\obj\Debug\TinhLaiSuatNganHang.pdb
