@@ -1,0 +1,6 @@
+D:\ProjectCSharp\29.12.2021\HinhTron\bin\Debug\HinhTron.exe.config
+D:\ProjectCSharp\29.12.2021\HinhTron\bin\Debug\HinhTron.exe
+D:\ProjectCSharp\29.12.2021\HinhTron\bin\Debug\HinhTron.pdb
+D:\ProjectCSharp\29.12.2021\HinhTron\obj\Debug\HinhTron.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\29.12.2021\HinhTron\obj\Debug\HinhTron.exe
+D:\ProjectCSharp\29.12.2021\HinhTron\obj\Debug\HinhTron.pdb
