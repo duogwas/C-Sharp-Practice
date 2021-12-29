@@ -1,0 +1,7 @@
+D:\ProjectCSharp\29.12.2021\HaiSoNguyen\bin\Debug\HaiSoNguyen.exe.config
+D:\ProjectCSharp\29.12.2021\HaiSoNguyen\bin\Debug\HaiSoNguyen.exe
+D:\ProjectCSharp\29.12.2021\HaiSoNguyen\bin\Debug\HaiSoNguyen.pdb
+D:\ProjectCSharp\29.12.2021\HaiSoNguyen\obj\Debug\HaiSoNguyen.csproj.AssemblyReference.cache
+D:\ProjectCSharp\29.12.2021\HaiSoNguyen\obj\Debug\HaiSoNguyen.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\29.12.2021\HaiSoNguyen\obj\Debug\HaiSoNguyen.exe
+D:\ProjectCSharp\29.12.2021\HaiSoNguyen\obj\Debug\HaiSoNguyen.pdb
