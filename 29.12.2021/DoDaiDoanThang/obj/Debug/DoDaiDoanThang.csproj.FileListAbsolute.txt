@@ -1,0 +1,6 @@
+D:\ProjectCSharp\29.12.2021\DoDaiDoanThang\obj\Debug\DoDaiDoanThang.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\29.12.2021\DoDaiDoanThang\bin\Debug\DoDaiDoanThang.exe.config
+D:\ProjectCSharp\29.12.2021\DoDaiDoanThang\bin\Debug\DoDaiDoanThang.exe
+D:\ProjectCSharp\29.12.2021\DoDaiDoanThang\bin\Debug\DoDaiDoanThang.pdb
+D:\ProjectCSharp\29.12.2021\DoDaiDoanThang\obj\Debug\DoDaiDoanThang.exe
+D:\ProjectCSharp\29.12.2021\DoDaiDoanThang\obj\Debug\DoDaiDoanThang.pdb
