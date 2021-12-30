@@ -1,0 +1,7 @@
+D:\ProjectCSharp\Ytb\Bai3\bin\Debug\Bai3.exe.config
+D:\ProjectCSharp\Ytb\Bai3\bin\Debug\Bai3.exe
+D:\ProjectCSharp\Ytb\Bai3\bin\Debug\Bai3.pdb
+D:\ProjectCSharp\Ytb\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+D:\ProjectCSharp\Ytb\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\Ytb\Bai3\obj\Debug\Bai3.exe
+D:\ProjectCSharp\Ytb\Bai3\obj\Debug\Bai3.pdb
