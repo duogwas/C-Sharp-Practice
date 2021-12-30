@@ -1,0 +1,6 @@
+D:\ProjectCSharp\Ytb\Bai6\bin\Debug\Bai6.exe.config
+D:\ProjectCSharp\Ytb\Bai6\bin\Debug\Bai6.exe
+D:\ProjectCSharp\Ytb\Bai6\bin\Debug\Bai6.pdb
+D:\ProjectCSharp\Ytb\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\Ytb\Bai6\obj\Debug\Bai6.exe
+D:\ProjectCSharp\Ytb\Bai6\obj\Debug\Bai6.pdb
