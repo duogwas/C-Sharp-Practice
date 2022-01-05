@@ -1,0 +1,7 @@
+D:\ProjectCSharp\Ytb\GameDoanSo\bin\Debug\GameDoanSo.exe.config
+D:\ProjectCSharp\Ytb\GameDoanSo\bin\Debug\GameDoanSo.exe
+D:\ProjectCSharp\Ytb\GameDoanSo\bin\Debug\GameDoanSo.pdb
+D:\ProjectCSharp\Ytb\GameDoanSo\obj\Debug\GameDoanSo.csproj.AssemblyReference.cache
+D:\ProjectCSharp\Ytb\GameDoanSo\obj\Debug\GameDoanSo.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\Ytb\GameDoanSo\obj\Debug\GameDoanSo.exe
+D:\ProjectCSharp\Ytb\GameDoanSo\obj\Debug\GameDoanSo.pdb
