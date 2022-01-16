@@ -1,0 +1,7 @@
+D:\ProjectCSharp\ThucHanh\17.01.2022\bin\Debug\17.01.2022.exe.config
+D:\ProjectCSharp\ThucHanh\17.01.2022\bin\Debug\17.01.2022.exe
+D:\ProjectCSharp\ThucHanh\17.01.2022\bin\Debug\17.01.2022.pdb
+D:\ProjectCSharp\ThucHanh\17.01.2022\obj\Debug\17.01.2022.csproj.AssemblyReference.cache
+D:\ProjectCSharp\ThucHanh\17.01.2022\obj\Debug\17.01.2022.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\ThucHanh\17.01.2022\obj\Debug\17.01.2022.exe
+D:\ProjectCSharp\ThucHanh\17.01.2022\obj\Debug\17.01.2022.pdb

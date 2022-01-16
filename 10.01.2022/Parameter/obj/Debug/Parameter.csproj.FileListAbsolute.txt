@@ -1,0 +1,7 @@
+D:\ProjectCSharp\10.01.2022\Parameter\bin\Debug\Parameter.exe.config
+D:\ProjectCSharp\10.01.2022\Parameter\bin\Debug\Parameter.exe
+D:\ProjectCSharp\10.01.2022\Parameter\bin\Debug\Parameter.pdb
+D:\ProjectCSharp\10.01.2022\Parameter\obj\Debug\Parameter.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\10.01.2022\Parameter\obj\Debug\Parameter.exe
+D:\ProjectCSharp\10.01.2022\Parameter\obj\Debug\Parameter.pdb
+D:\ProjectCSharp\10.01.2022\Parameter\obj\Debug\Parameter.csproj.AssemblyReference.cache

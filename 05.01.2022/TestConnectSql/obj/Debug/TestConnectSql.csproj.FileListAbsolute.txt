@@ -1,0 +1,7 @@
+D:\ProjectCSharp\05.01.2022\TestConnectSql\bin\Debug\TestConnectSql.exe.config
+D:\ProjectCSharp\05.01.2022\TestConnectSql\bin\Debug\TestConnectSql.exe
+D:\ProjectCSharp\05.01.2022\TestConnectSql\bin\Debug\TestConnectSql.pdb
+D:\ProjectCSharp\05.01.2022\TestConnectSql\obj\Debug\TestConnectSql.csproj.AssemblyReference.cache
+D:\ProjectCSharp\05.01.2022\TestConnectSql\obj\Debug\TestConnectSql.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\05.01.2022\TestConnectSql\obj\Debug\TestConnectSql.exe
+D:\ProjectCSharp\05.01.2022\TestConnectSql\obj\Debug\TestConnectSql.pdb

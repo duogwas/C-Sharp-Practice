@@ -1,0 +1,7 @@
+D:\ProjectCSharp\10.01.2022\DataAdapter\bin\Debug\DataAdapter.exe.config
+D:\ProjectCSharp\10.01.2022\DataAdapter\bin\Debug\DataAdapter.exe
+D:\ProjectCSharp\10.01.2022\DataAdapter\bin\Debug\DataAdapter.pdb
+D:\ProjectCSharp\10.01.2022\DataAdapter\obj\Debug\DataAdapter.csproj.AssemblyReference.cache
+D:\ProjectCSharp\10.01.2022\DataAdapter\obj\Debug\DataAdapter.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\10.01.2022\DataAdapter\obj\Debug\DataAdapter.exe
+D:\ProjectCSharp\10.01.2022\DataAdapter\obj\Debug\DataAdapter.pdb
