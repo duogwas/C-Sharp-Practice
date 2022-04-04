@@ -1,0 +1,11 @@
+D:\ProjectCSharp\16.02.2022\ThucHanh\bin\Debug\ThucHanh.exe.config
+D:\ProjectCSharp\16.02.2022\ThucHanh\bin\Debug\ThucHanh.exe
+D:\ProjectCSharp\16.02.2022\ThucHanh\bin\Debug\ThucHanh.pdb
+D:\ProjectCSharp\16.02.2022\ThucHanh\obj\Debug\ThucHanh.csproj.AssemblyReference.cache
+D:\ProjectCSharp\16.02.2022\ThucHanh\obj\Debug\ThucHanh.Form1.resources
+D:\ProjectCSharp\16.02.2022\ThucHanh\obj\Debug\ThucHanh.Properties.Resources.resources
+D:\ProjectCSharp\16.02.2022\ThucHanh\obj\Debug\ThucHanh.csproj.GenerateResource.cache
+D:\ProjectCSharp\16.02.2022\ThucHanh\obj\Debug\ThucHanh.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\16.02.2022\ThucHanh\obj\Debug\ThucHanh.exe
+D:\ProjectCSharp\16.02.2022\ThucHanh\obj\Debug\ThucHanh.pdb
+D:\ProjectCSharp\16.02.2022\ThucHanh\obj\Debug\ThucHanh.FormPhongBan.resources

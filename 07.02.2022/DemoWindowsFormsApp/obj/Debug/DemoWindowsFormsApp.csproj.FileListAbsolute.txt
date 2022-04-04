@@ -1,0 +1,10 @@
+D:\ProjectCSharp\07.02.2022\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.exe.config
+D:\ProjectCSharp\07.02.2022\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.exe
+D:\ProjectCSharp\07.02.2022\DemoWindowsFormsApp\bin\Debug\DemoWindowsFormsApp.pdb
+D:\ProjectCSharp\07.02.2022\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.AssemblyReference.cache
+D:\ProjectCSharp\07.02.2022\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.FormMain.resources
+D:\ProjectCSharp\07.02.2022\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.Properties.Resources.resources
+D:\ProjectCSharp\07.02.2022\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.GenerateResource.cache
+D:\ProjectCSharp\07.02.2022\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\07.02.2022\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.exe
+D:\ProjectCSharp\07.02.2022\DemoWindowsFormsApp\obj\Debug\DemoWindowsFormsApp.pdb
